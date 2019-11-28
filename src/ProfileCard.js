@@ -13,6 +13,7 @@ import CustomChip from './CustomChip'
 const useStyles = makeStyles({
   card: {
     maxWidth: 345,
+    marginTop: "10px"
   },
   media: {
     height: 140,
